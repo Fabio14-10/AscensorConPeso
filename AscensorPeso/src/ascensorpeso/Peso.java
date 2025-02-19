@@ -20,8 +20,7 @@ public class Peso {
     }
 
     private void mostrarError() {
-        System.out.println("Error: Peso no válido. Por favor, evacue el ascensor, gracias! " 
-                           + PESO_MINIMO + " y " + PESO_MAXIMO);
+        System.out.println("Error: Peso no válido. Por favor, evacue el ascensor, gracias! ");
     
     }
     
